@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1768406499,
+	"version": 1768926328,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,15 @@
 		"images/glocb2-sheet0.png",
 		"images/sprite14-sheet0.png",
 		"images/sprite15-sheet0.png",
+		"images/phone-sheet0.png",
+		"images/phone-sheet1.png",
+		"images/phonetap-sheet0.png",
+		"images/phonetext.png",
+		"images/phoneskin-sheet0.png",
+		"images/phonetouch-sheet0.png",
+		"images/hidebattery-sheet0.png",
+		"images/hwbackground-sheet0.png",
+		"images/hwphoto-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
